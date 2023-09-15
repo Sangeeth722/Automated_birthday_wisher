@@ -14,6 +14,6 @@ I am unable to create an app password for my Yahoo account😢
 
 <h1>Requirements</h1>
 
-1 Pythonanywhere. A free PythonAnywhere account allows you to run one script at a time
+1 Pythonanywhere. A free PythonAnywhere account allows you to run one script at a time<br>
 2 A small amount of common sense
 
