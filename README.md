@@ -9,11 +9,10 @@ It can help you show your loved ones that you care. Sending a birthday wish is a
 
 
 I tested this code in my Gmail account (You need to have 2-step verification enabled to create an app password). 
-I am unable to create an app password for my Yahoo account😢
+I am unable to create an app password for my Yahoo account
 
 
 <h1>Requirements</h1>
 
-1 Pythonanywhere. A free PythonAnywhere account allows you to run one script at a time<br>
-2 A small amount of common sense
+1 Pythonanywhere. A free PythonAnywhere account allows you to run one script at a time
 
