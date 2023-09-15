@@ -12,7 +12,7 @@ I tested this code in my Gmail account (You need to have 2-step verification ena
 I am unable to create an app password for my Yahoo account😢
 
 
-#Requirements
+<h1>Requirements</h1>
 
 1 Pythonanywhere. A free PythonAnywhere account allows you to run one script at a time
 2 A small amount of common sense
